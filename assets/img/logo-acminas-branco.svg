@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" width="168" height="40" role="img" aria-label="Acminas Suprimentos para Comunicação Visual">
+<g>
+  <rect x="2" y="2" width="36" height="36" rx="8" fill="#0d47a1"/>
+  <path d="M9 27 17 23h16l-8 4H9Z" fill="#ffffff" opacity=".55"/>
+  <path d="M9 21 17 17h16l-8 4H9Z" fill="#ffffff" opacity=".8"/>
+  <path d="M9 15 17 11h16l-8 4H9Z" fill="#ffb547"/>
+</g>
+<text x="45" y="22" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="20" font-weight="800" fill="#ffffff" letter-spacing=".2">ACMINAS</text>
+<text x="45.5" y="34.5" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="7.4" font-weight="600" fill="#ffb547" letter-spacing=".5">COMUNICAÇÃO VISUAL</text>
+</svg>
